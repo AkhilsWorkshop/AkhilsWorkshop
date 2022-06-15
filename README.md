@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there I'm [Akhil](https://akhilkumar.ga/)👋
+
+<a href="https://github.com/AkhilsWorkshop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilsWorkshop&layout=compact&theme=dark" />
+</a><br>
+<a href="https://github.com/AkhilsWorkshop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AkhilsWorkshop&show_icons=true&theme=dark&count_private=true&hide=prs,issues,contribs" />
+</a>
+
 
 <!--
 **AkhilsWorkshop/AkhilsWorkshop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
