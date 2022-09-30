@@ -8,6 +8,6 @@
 </a>
 </p>
 
-![Languages used by Akhil](https://github-readme-stats.vercel.app/top-langs/api?username=AkhilsWorkshop&layout=compact&theme=dark&card_width=445)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilsWorkshop)]
 
 ![Akhil's GitHub Progress](https://github-readme-stats.vercel.app/api?username=AkhilsWorkshop&show_icons=true&theme=dark&count_private=true&hide=prs,issues,contribs&include_all_commits=true)
